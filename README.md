@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-As a **web development enthusiast**, I'm deeply **interested and passionate about problem-solving**, applying my skills across both **frontend and backend technologies**. My current focus is expanding into **AWS Cloud**, where I'm actively working on or preparing for certifications to build scalable and robust applications.
+As a **web development enthusiast**, I'm deeply **interested and passionate about problem-solving**, applying my skills across both **frontend and backend technologies**. My current focus is into React concept to build various kind of websites using components, hooks, context api,react router and react redux.
 
 ---
 
 ## 🌱 What I'm Currently Learning
 
-* **Deep diving into AWS Cloud technologies** for cloud-native solutions.
+* **Deep diving into React.
 
 ---
 
