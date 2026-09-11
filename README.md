@@ -82,7 +82,7 @@ https://github.com/M-mohit111/CodeLedger
 
 I regularly practice Data Structures & Algorithms and focus on improving problem-solving rather than just solving problems mechanically.
 
-* 🟢 **LeetCode:** 200+ problems
+* 🟢 **LeetCode:** 200+ problems
 * 🟡 **GeeksforGeeks:** 100+ problems
 * 🔵 **Codeforces:** 30+ problems
 * 🏅 **LeetCode Rating:** ~1420+
@@ -123,19 +123,6 @@ I regularly practice Data Structures & Algorithms and focus on improving problem
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-mohit111&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-mohit111&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-mohit111&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -146,6 +133,14 @@ I regularly practice Data Structures & Algorithms and focus on improving problem
 
 <a href="https://leetcode.com/m041t2212">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/mohitagrayj7v?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/mohitagrawal2212">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://github.com/M-mohit111">
